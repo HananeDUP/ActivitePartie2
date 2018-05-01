@@ -1,0 +1,49 @@
+body
+{
+	background-color: rgba(110,60,50,0.4);
+	padding: 3px;
+}
+
+#bloc_page
+{
+	background-color: rgb(250,200,200);
+	width: 700px;
+	margin: auto;
+	margin-top: 30px;
+	border:2px white solid;
+	Border-radius: 5px;
+}
+
+header
+{
+	font-size: large;
+	text-align: center;
+	font-weight: bold; 
+	
+}
+
+nav h1
+{
+	font-size: medium;
+}
+
+#footer_div
+{
+	display: inline-block;
+	width: 700px;
+	margin: auto;
+	margin-top: 30px;
+	margin-left: 276px;
+	background-color: rgba(110,60,50, 0.2);
+	Border-radius: 5px 5px 5px 5px;
+	border: 2px white solid;
+	
+}
+
+footer h1
+{
+	font-size: medium;
+	text-align: center;
+}
+
+
